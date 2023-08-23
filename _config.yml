@@ -17,10 +17,10 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", icon: home}
-  - {title: "CV", url: "https://hmcmonagle.github.io/McMonagle_SAFS_UW_CV.pdf", target: "_blank"}
-  - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=aYllvNcAAAAJ&hl=en", target: "_blank"}
-  - {title: "Essington Lab", url: "https://sites.uw.edu/essing/", target: "_blank"}
-  - {title: "Hilborn Lab", url: "https://rayhblog.wordpress.com", target: "_blank"}
+  - {title: "CV", url: "https://hmcmonagle.github.io/McMonagle_SAFS_UW_CV.pdf"}
+  - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=aYllvNcAAAAJ&hl=en"}
+  - {title: "Essington Lab", url: "https://sites.uw.edu/essing/"}
+  - {title: "Hilborn Lab", url: "https://rayhblog.wordpress.com"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:hmcmonag@uw.edu"}
