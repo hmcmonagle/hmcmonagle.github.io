@@ -16,12 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "helena_cv.pdf", title: "CV", icon: home}
+  - {file: "index.html", icon: home}
+  - {file: "helena_cv.pdf", title: "CV", icon: file-alt}
   - {title: "Lab", url: "https://sites.uw.edu/essing/"}
   - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=aYllvNcAAAAJ&hl=en"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:helena.mcmonagle@wellesley.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:hmcmonag@uw.edu"}
   - {title: Github, icon: github, url: "https://github.com/hmcmonagle"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/helenamcmonagle"}
 
