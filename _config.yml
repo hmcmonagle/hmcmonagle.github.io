@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "\index.html", icon: home}
-  - {file: "\McMonagle_SAFS_UW_CV.pdf", title: "CV"}
+  - {file: "index.md", icon: home}
+  - {file: "McMonagle_SAFS_UW_CV.pdf", title: "CV"}
   - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=aYllvNcAAAAJ&hl=en"}
-  - {title: "Lab Site", url: "https://sites.uw.edu/essing/"}
+  - {title: "Essington Lab", url: "https://sites.uw.edu/essing/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:hmcmonag@uw.edu"}
