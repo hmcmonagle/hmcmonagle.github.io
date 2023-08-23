@@ -1,7 +1,9 @@
 ---
-layout: default  # Choose the appropriate layout for your CV page
-title: Helena McMonagle's CV
-permalink: /cv/
+title:  "CV"
+mathjax: true
+layout: page
+categories: media
 ---
+
 
 [Download Helena McMonagle's CV](McMonagle_SAFS_UW_CV.pdf)
