@@ -4,4 +4,4 @@ title: Helena McMonagle's CV
 permalink: /cv/
 ---
 
-[Download CV](McMonagle_SAFS_UW_CV.pdf)
+[Download Helena McMonagle's CV](McMonagle_SAFS_UW_CV.pdf)
