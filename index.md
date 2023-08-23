@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About me"
+title: ""
 ---
 
 Hello! I'm a PhD candidate in the School of Aquatic and Fishery Sciences at University of Washington. I'm co-advised by Dr. Tim Essington and Dr. Ray Hilborn, and am a guest student at Woods Hole Oceanographic Institution. 
