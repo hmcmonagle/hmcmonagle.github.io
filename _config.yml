@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", icon: home}
-  - {file: "helena_cv.pdf", title: "CV", icon: file-alt}
+  - {file: "McMonagle_SAFS_UW_CV.pdf", title: "CV", icon: file-alt}
   - {title: "Lab", url: "https://sites.uw.edu/essing/"}
   - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=aYllvNcAAAAJ&hl=en"}
 
