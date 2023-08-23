@@ -1,5 +1,5 @@
 ---
-title:  "CV"
+title:  ""
 mathjax: true
 layout: page
 categories: media
