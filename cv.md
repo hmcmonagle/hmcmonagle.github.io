@@ -1,8 +1,6 @@
-# Helena McMonagle's CV
-
 ---
 layout: default  # Choose the appropriate layout for your CV page
-title: CV
+title: Helena McMonagle's CV
 permalink: /cv/
 ---
 
