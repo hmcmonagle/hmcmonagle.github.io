@@ -6,4 +6,4 @@ categories: media
 ---
 
 
-[Download Helena McMonagle's CV](McMonagle_SAFS_UW_CV.pdf)
+[Helena McMonagle's CV](McMonagle_SAFS_UW_CV.pdf)
