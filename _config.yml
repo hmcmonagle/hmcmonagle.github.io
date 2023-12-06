@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # edit line 20 to reflect new title of CV PDF when I update it and add a new version to the parent folder
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", icon: home}
-  - {title: "CV", url: "https://hmcmonagle.github.io/McMonagle_SAFS_UW_CV_20231011.pdf"}
+  - {title: "CV", url: "https://hmcmonagle.github.io/McMonagle_SAFS_UW_CV_231206_Github.pdf"}
   - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=aYllvNcAAAAJ&hl=en"}
   - {title: "Essington Lab", url: "https://sites.uw.edu/essing/"}
   - {title: "Hilborn Lab", url: "https://rayhblog.wordpress.com"}
