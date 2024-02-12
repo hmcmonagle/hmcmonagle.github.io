@@ -6,4 +6,4 @@ categories: media
 ---
 
 
-[Helena McMonagle's CV](McMonagle_SAFS_UW_CV_240208_Profile.pdf) # update CV file name here
+[Helena McMonagle's CV](McMonagle_SAFS_UW_CV_240208_Profile.pdf)
