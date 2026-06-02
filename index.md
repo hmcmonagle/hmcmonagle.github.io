@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-Hello! I'm a Fisheries Biologist at the NOAA Northwest Fisheries Science Center as a contractor with Ocean Associates.
+Hello! I'm a Fisheries Biologist at the NOAA Northwest Fisheries Science Center as a contractor with Ocean Associates studying interactions between offshore energy and infrastructure, and fisheries management and fish population dynamics. 
 
 In my previous position I was studying marine carbon dioxide removal and carbon accounting. I was formerly at the US National Science Foundation in the Division of Ocean Sciences as a Knauss Fellow in ocean policy. I'm an alumna of the School of Aquatic and Fishery Sciences at University of Washington, where I did my PhD with Dr. Tim Essington and Dr. Ray Hilborn. My name is pronounced Hel-AY-na Mic-MON-ah-gull and my pronouns are she/her.
 
